@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@immowelt/styleguide-javascript": "^1.0.11",
+    "create-web-ext": "^1.0.0",
+    "web-ext-translator": "^3.0.0"
+  }
+}

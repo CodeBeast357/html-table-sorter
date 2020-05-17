@@ -1,0 +1,4 @@
+[submodule "tsorter"]
+	path = tsorter
+	url = ssh://git@github.com/CodeBeast357/tsorter.git
+	branch = master

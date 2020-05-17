@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "HTML Table Sort"
+  },
+  "extensionDescription": {
+    "message": "Sort any HTML table"
+  },
+  "__WET_LOCALE__": {
+    "message": "en"
+  }
+}
